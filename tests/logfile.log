@@ -163,3 +163,7 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2025-03-15 22:17:02,806 :INFO test_e2e :Blackberry
 2025-03-15 22:17:08,155 :INFO test_e2e :×
 Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-03-16 00:20:46,216 :INFO test_formSubmission :Привет
+2025-03-16 00:20:46,271 :INFO test_formSubmission :Имя name1
+2025-03-16 00:23:55,765 :INFO test_formSubmission :Привет
+2025-03-16 00:23:55,823 :INFO test_formSubmission :Имя name1

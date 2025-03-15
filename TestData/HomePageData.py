@@ -6,7 +6,7 @@ class HomePageData:
     @classmethod
     def getTestData(cls, test_case_name):
         dic = dict()
-        book = openpyxl.load_workbook(r"C:\Users\kazak\Desktop\Prog\PythonDemo.xlsx")
+        book = openpyxl.load_workbook(r"C:\Users\kazak\PycharmProjects\PythonSelFramework\TestData\PythonDemo.xlsx")
         sheet = book.active
         for i in range(1, sheet.max_row + 1):
             if sheet.cell(row=i, column=1).value == test_case_name:
