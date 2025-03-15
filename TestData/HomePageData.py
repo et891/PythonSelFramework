@@ -1,3 +1,5 @@
+import os
+
 import openpyxl
 
 class HomePageData:
@@ -6,7 +8,10 @@ class HomePageData:
     @classmethod
     def getTestData(cls, test_case_name):
         dic = dict()
-        book = openpyxl.load_workbook(r"C:\Users\kazak\PycharmProjects\PythonSelFramework\TestData\PythonDemo.xlsx")
+        base_path = os.path.dirname(os.path.abspath(__file__))
+        # Формируем путь к файлу Excel
+        file_path = os.path.join(base_path, "PythonDemo.xlsx")
+        book = openpyxl.load_workbook(file_path)
         sheet = book.active
         for i in range(1, sheet.max_row + 1):
             if sheet.cell(row=i, column=1).value == test_case_name:

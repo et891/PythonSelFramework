@@ -167,3 +167,5 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2025-03-16 00:20:46,271 :INFO test_formSubmission :Имя name1
 2025-03-16 00:23:55,765 :INFO test_formSubmission :Привет
 2025-03-16 00:23:55,823 :INFO test_formSubmission :Имя name1
+2025-03-16 00:30:24,338 :INFO test_formSubmission :Привет
+2025-03-16 00:30:24,393 :INFO test_formSubmission :Имя name1
