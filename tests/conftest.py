@@ -23,6 +23,7 @@ def setup(request):
         chrome_options.add_argument("--disable-dev-shm-usage")  # ✅ Фикс ошибок памяти
         chrome_options.add_argument("--disable-gpu")  # ✅ Убираем GPU (ненужен в headless)
         chrome_options.add_argument("--remote-debugging-port=9222")  # ✅ Избегаем конфликта с другим процессом Chrome
+        chrome_options.add_argument("--window-size=1920,1080")
         driver = webdriver.Chrome(options=chrome_options)
     elif browser_name == "firefox":
         driver = webdriver.Firefox()

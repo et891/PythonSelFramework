@@ -33,3 +33,12 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2025-03-15 22:04:07,993 :INFO test_e2e :Blackberry
 2025-03-15 22:04:14,264 :INFO test_e2e :×
 Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-03-16 00:43:08,455 :INFO test_formSubmission :Привет
+2025-03-16 00:43:08,507 :INFO test_formSubmission :Имя name1
+2025-03-16 00:43:21,150 :INFO test_e2e :Getting all cards titles!
+2025-03-16 00:43:21,169 :INFO test_e2e :iphone X
+2025-03-16 00:43:21,179 :INFO test_e2e :Samsung Note 8
+2025-03-16 00:43:21,189 :INFO test_e2e :Nokia Edge
+2025-03-16 00:43:21,198 :INFO test_e2e :Blackberry
+2025-03-16 00:43:26,518 :INFO test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
