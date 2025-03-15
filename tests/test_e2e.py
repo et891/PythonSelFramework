@@ -53,3 +53,4 @@ class TestOne(BaseClass):
         log.info(msg)
         assert "Success" in msg
         time.sleep(1)
+        time.sleep(1)
