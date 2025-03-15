@@ -26,4 +26,9 @@ jobs:
         pip install allure-pytest
 
     - name: Run tests  # Запуск тестов
-      run: pytest
+      run:  pytest -s -v --alluredir=reports
+    - uses: actions/upload-artifact@v4
+      if: ${{ !cancelled() }}
+      with:
+        name: allure_report
+        path: reports/
