@@ -1,0 +1,7 @@
+[32mINFO    [0m test_e2e:test_e2e.py:21 Getting all cards titles!
+[32mINFO    [0m test_e2e:test_e2e.py:26 iphone X
+[32mINFO    [0m test_e2e:test_e2e.py:26 Samsung Note 8
+[32mINFO    [0m test_e2e:test_e2e.py:26 Nokia Edge
+[32mINFO    [0m test_e2e:test_e2e.py:26 Blackberry
+[32mINFO    [0m test_e2e:test_e2e.py:44 ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

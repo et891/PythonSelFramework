@@ -1,0 +1,2 @@
+INFO     test_formSubmission:test_HomePage.py:17 Привет
+INFO     test_formSubmission:test_HomePage.py:21 Имя name1

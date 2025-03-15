@@ -1,0 +1,7 @@
+INFO     test_e2e:test_e2e.py:30 Getting all cards titles!
+INFO     test_e2e:test_e2e.py:35 iphone X
+INFO     test_e2e:test_e2e.py:35 Samsung Note 8
+INFO     test_e2e:test_e2e.py:35 Nokia Edge
+INFO     test_e2e:test_e2e.py:35 Blackberry
+INFO     test_e2e:test_e2e.py:53 ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

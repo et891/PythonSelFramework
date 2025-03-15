@@ -1,0 +1,2 @@
+[32mINFO    [0m test_formSubmission:test_HomePage.py:17 Привет
+[32mINFO    [0m test_formSubmission:test_HomePage.py:21 Имя name1
