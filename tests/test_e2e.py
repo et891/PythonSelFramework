@@ -52,4 +52,4 @@ class TestOne(BaseClass):
         msg = self.driver.find_element(By.CLASS_NAME, "alert-success").text
         log.info(msg)
         assert "Success" in msg
-        time.sleep(4)
+        time.sleep(2)
