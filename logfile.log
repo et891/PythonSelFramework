@@ -1,0 +1,35 @@
+2025-03-09 17:33:34,386 :INFO test_formSubmission :Привет
+2025-03-09 17:33:34,440 :INFO test_formSubmission :Имя name1
+2025-03-09 17:33:46,950 :INFO test_e2e :Getting all cards titles!
+2025-03-09 17:33:46,968 :INFO test_e2e :iphone X
+2025-03-09 17:33:46,979 :INFO test_e2e :Samsung Note 8
+2025-03-09 17:33:46,988 :INFO test_e2e :Nokia Edge
+2025-03-09 17:33:46,999 :INFO test_e2e :Blackberry
+2025-03-09 17:33:52,351 :INFO test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-03-10 14:18:42,729 :INFO test_formSubmission :Привет
+2025-03-10 14:18:52,144 :INFO test_e2e :Getting all cards titles!
+2025-03-10 14:18:52,215 :INFO test_e2e :iphone X
+2025-03-10 14:18:52,226 :INFO test_e2e :Samsung Note 8
+2025-03-10 14:18:52,236 :INFO test_e2e :Nokia Edge
+2025-03-10 14:18:52,246 :INFO test_e2e :Blackberry
+2025-03-10 14:18:57,639 :INFO test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-03-15 22:01:21,647 :INFO test_formSubmission :Привет
+2025-03-15 22:01:21,704 :INFO test_formSubmission :Имя name1
+2025-03-15 22:01:34,930 :INFO test_e2e :Getting all cards titles!
+2025-03-15 22:01:34,948 :INFO test_e2e :iphone X
+2025-03-15 22:01:34,959 :INFO test_e2e :Samsung Note 8
+2025-03-15 22:01:34,968 :INFO test_e2e :Nokia Edge
+2025-03-15 22:01:34,979 :INFO test_e2e :Blackberry
+2025-03-15 22:01:40,337 :INFO test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-03-15 22:03:55,682 :INFO test_formSubmission :Привет
+2025-03-15 22:03:55,733 :INFO test_formSubmission :Имя name1
+2025-03-15 22:04:07,951 :INFO test_e2e :Getting all cards titles!
+2025-03-15 22:04:07,966 :INFO test_e2e :iphone X
+2025-03-15 22:04:07,975 :INFO test_e2e :Samsung Note 8
+2025-03-15 22:04:07,984 :INFO test_e2e :Nokia Edge
+2025-03-15 22:04:07,993 :INFO test_e2e :Blackberry
+2025-03-15 22:04:14,264 :INFO test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
